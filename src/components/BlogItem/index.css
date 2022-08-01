@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+.heading {
+  display: flex;
+  justify-content: space-between;
+}
+li {
+  list-style-type: none;
+  width: 90%;
+}
+.date {
+  color: #9aa5b1;
+}
+.description {
+  color: #9aa5b1;
+  margin: 0px;
+}
